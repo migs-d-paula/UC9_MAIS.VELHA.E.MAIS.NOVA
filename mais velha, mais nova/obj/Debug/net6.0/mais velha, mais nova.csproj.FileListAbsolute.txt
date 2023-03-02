@@ -1,0 +1,15 @@
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\obj\Debug\net6.0\mais velha, mais nova.csproj.AssemblyReference.cache
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\obj\Debug\net6.0\mais velha, mais nova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\obj\Debug\net6.0\mais velha, mais nova.AssemblyInfoInputs.cache
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\obj\Debug\net6.0\mais velha, mais nova.AssemblyInfo.cs
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\obj\Debug\net6.0\mais velha, mais nova.csproj.CoreCompileInputs.cache
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\bin\Debug\net6.0\mais velha, mais nova.exe
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\bin\Debug\net6.0\mais velha, mais nova.deps.json
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\bin\Debug\net6.0\mais velha, mais nova.runtimeconfig.json
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\bin\Debug\net6.0\mais velha, mais nova.dll
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\bin\Debug\net6.0\ref\mais velha, mais nova.dll
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\bin\Debug\net6.0\mais velha, mais nova.pdb
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\obj\Debug\net6.0\mais velha, mais nova.dll
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\obj\Debug\net6.0\ref\mais velha, mais nova.dll
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\obj\Debug\net6.0\mais velha, mais nova.pdb
+C:\Users\miguel.pveloso\source\repos\mais velha, mais nova\mais velha, mais nova\obj\Debug\net6.0\mais velha, mais nova.genruntimeconfig.cache
